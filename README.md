@@ -49,6 +49,6 @@ PHP 8 (PDO) · MySQL · Bootstrap 5 · JavaScript · Python (FastAPI, google-gen
 5. Serve the PHP folder (XAMPP / `php -S localhost:8080`).
 
 ## Authors
-- Nour Eldin Khatib
+- Nor Eldin Khatib
 - Samar Amon
 - Nasser Habrat
